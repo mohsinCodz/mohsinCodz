@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Mohsin ALI</h1>
 <h3 align="center">Software Android Development</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2001042/screenshots/4951997/media/962921c223bd184ac63ddd13bbf2d0f3.gif">
+<img align="right" alt="Coding" width="500" src="https://th.bing.com/th/id/R.413ac8938334c4c63393e14527f97359?rik=GZsZjoJd52y%2fiw&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinCodz&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinCodz" /> </p>
 
