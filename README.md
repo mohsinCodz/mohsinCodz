@@ -1,6 +1,6 @@
 ![Cover](https://github.com/mohsinCodz/mohsinCodz/assets/155422244/f7693c85-9f57-458d-8fa7-30417b0752ae)
 <h1 align="center">Hi 👋, I'm Mohsin ALI</h1>
-<h3 align="center">Software Android Development</h3>
+<h3 align="center">Software Android Developer</h3>
 <img align="right" alt="Coding" width="500" src="https://th.bing.com/th/id/R.413ac8938334c4c63393e14527f97359?rik=GZsZjoJd52y%2fiw&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinCodz&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinCodz" /> </p>
